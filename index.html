@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"JS"Libs</title>
+    <link rel="stylesheet" href="styles/stylesheet.css">
+</head>
+<body>
+    <header>
+        <h1>JavaScript Libs!</h1>
+        <p>a game in the style of MadLibs</p>
+    </header>
+    <main>
+        <p>Enter words in the fields below, then press Write!</p>
+        <form>
+            <label for="adjective1">Adjective:</label>
+            <input type="text" id="adjective1" name="adjective1" value="young"> <br>
+            <label for="profession">Profession:</label>
+            <input type="text" id="profession" name="profession" value="lawyer"> <br>
+            <label for="verbing">Verb ending in -ing:</label>
+            <input type="text" id="verbing" name="verbing" value="walking"> <br>
+            <label for="container">Container:</label>
+            <input type="text" id="container" name="container" value="box"> <br>
+            <label for="adjective2">Adjective:</label>
+            <input type="text" id="adjective2" name="adjective2" value="large"> <br>
+            <label for="shape">Shape:</label>
+            <input type="text" id="shape" name="shape" value="square"> <br>
+            <label for="adjective3">Adjective:</label>
+            <input type="text" id="adjective3" name="adjective3" value="strange"> <br>
+            <label for="smallAnimal">Small Animal:</label>
+            <input type="text" id="smallAnimal" name="smallAnimal" value="mouse"> <br>
+            <label for="adjective4">Adjective:</label>
+            <input type="text" id="adjective4" name="adjective4" value="small"> <br>
+            <button type="button" onclick="writeStory()"> Write! </button>
+        </form>
+        <div class="story"><p id="filledTemplate"></p></div>
+    </main>
+    <footer>
+
+    </footer>
+<script src="script.js"></script>
+</body>
+</html>
