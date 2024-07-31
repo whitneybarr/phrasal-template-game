@@ -1,15 +1,5 @@
-Once upon a time, a _adjective1_ _profession_ was 
-
-_verbEndingInIng_ through the woods when he encountered a _container_. It was _adjective2_ and _shape_ and he was surprised to see such a _adjective3_ object out there in the woods. He peeked inside and saw it contained a _smallAnimal_. 
+Once upon a time, a _adjective1_ _profession_ was _verbing_ through the woods when he encountered a _container_. It was _adjective2_ and _shape_ and he was surprised to see such a _adjective3_ object out there in the woods. He peeked inside and saw it contained a _smallAnimal_. 
 "Hello, _smallAnimal_," the _profession_ said. 
 To his suprise, the _smallAnimal_ responded. "Hello, friend! Would you be so kind as to carry me and my _container_ to the next town? I am too _adjective4_ to carry this _container_ myself." 
 The _profession_ obliged, and together he and the _smallAnimal_ journeyed on. 
 
-_profession_
-_verbing 
-_container_
-_adjective2_
-_shape_
-_adjective3_
-_smallAnimal_
-_adjective4_
